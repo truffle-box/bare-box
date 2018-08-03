@@ -12,9 +12,9 @@
  * to sign your transactions before they're sent to a remote public node. Infura API
  * keys are available for free at: infura.io/register
  *
- *   > > Using Truffle V5 or later? Make sure you install the V5 version.
+ *   > > Using Truffle V5 or later? Make sure you install the `web3-one` version.
  *
- *   > > $ npm install truffle-hdwallet-provider@V5
+ *   > > $ npm install truffle-hdwallet-provider@web3-one
  *
  * You'll also need a mnemonic - the twelve word phrase the wallet uses to generate
  * public/private key pairs. If you're publishing your code to GitHub make sure you load this
