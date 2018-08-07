@@ -98,26 +98,6 @@ module.exports = {
       //  },
       //  evmVersion: "byzantium"
       // }
-    },
-
-    external: {
-      // command: "./compile-external",
-      // targets: [{
-      //  path: "external/M*.json",  // MetaCoin and Migrations
-      //  command: "cat -"
-      // }, {
-      //  path: "external/ConvertLib.json",
-      //  command: "cat",
-      //  stdin: false
-      // }, {
-      //  properties: {
-      //    contractName: "ExtraMetaCoin"
-      //  },
-      //  fileProperties: {
-      //    abi: "external/MetaCoin.abi",
-      //    bytecode: "external/MetaCoin.bytecode"
-      //  }
-      // }]
     }
   }
 }
