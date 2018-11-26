@@ -1,6 +1,5 @@
 {
   "ignore": [
-    "README.md",
     "test/.gitkeep"
   ],
   "commands": {
