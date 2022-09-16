@@ -1,0 +1,23 @@
+{
+  "name": "bare-box-for-truffle-test",
+  "version": "1.0.0",
+  "description": "Truffle Box for a bare-minimum Truffle project with package.json",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truffle-box/bare-box.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truffle-box/bare-box/issues"
+  },
+  "homepage": "https://github.com/truffle-box/bare-box#readme"
+}
